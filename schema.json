@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "Sender": {
+      "type": "rich_text",
+      "rich_text": {}
+    },
+    "Recipient": {
+      "type": "rich_text",
+      "rich_text": {}
+    },
+    "Message": {
+      "type": "title",
+      "title": {}
+    },
+    "Timestamp": {
+      "type": "number",
+      "number": {}
+    }
+  }
+}

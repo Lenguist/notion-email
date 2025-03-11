@@ -1,0 +1,4 @@
+Generate up to 20 messages representing a conversation between 3 different humans.
+Give creative liberty to invent a short story for them.
+Should ideally include decently long messages. 
+maybe smth work related. imagine them as coworkers.
